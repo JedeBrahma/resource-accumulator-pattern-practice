@@ -3,6 +3,7 @@
 The following is an opportunity for you to practice using the accumulator pattern.
 
 ## Project setup
+whatever 
 
 ### Getting started
 
